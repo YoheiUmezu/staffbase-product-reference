@@ -1,0 +1,48 @@
+# AnythingLLM のワークスペースに、リポジトリ内 docs/*.md のうち未登録分だけをアップロードする。
+#
+# 必要な Repository secrets:
+#   ANYTHINGLLM_BASE_URL         例: https://your-anythingllm.example.com （/api は含めない）
+#   ANYTHINGLLM_API_KEY          Developer API キー
+#   ANYTHINGLLM_WORKSPACE_SLUG   対象ワークスペースの slug
+#
+# 補足: 既定の定期実行はリポジトリ上の docs/ を同期するだけです。
+# Staffbase から docs を取り直す場合は workflow_dispatch で refresh_from_staffbase を有効にしてください。
+
+name: Sync docs to AnythingLLM
+
+on:
+  schedule:
+    # 毎日 01:00 UTC（sync-kb.yml の直後に近いタイミング）
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+    inputs:
+      refresh_from_staffbase:
+        description: "先に fetch_staffbase_rag.py を実行（Staffbase API を多数呼ぶため時間がかかります）"
+        type: boolean
+        default: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip requests
+
+      - name: Refresh docs from Staffbase (optional)
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.refresh_from_staffbase == 'true' }}
+        run: python fetch_staffbase_rag.py
+
+      - name: Sync missing docs to AnythingLLM
+        env:
+          ANYTHINGLLM_BASE_URL: ${{ secrets.ANYTHINGLLM_BASE_URL }}
+          ANYTHINGLLM_API_KEY: ${{ secrets.ANYTHINGLLM_API_KEY }}
+          ANYTHINGLLM_WORKSPACE_SLUG: ${{ secrets.ANYTHINGLLM_WORKSPACE_SLUG }}
+        run: python sync_docs.py
