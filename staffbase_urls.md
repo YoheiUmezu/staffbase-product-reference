@@ -76,6 +76,7 @@
 - [プラットフォームのホスティングインフラストラクチャとベースURLの特定](https://support.staffbase.com/hc/ja/articles/25488156675986)
 - [ウィジェットの概要](https://support.staffbase.com/hc/ja/articles/25488058652818)
 - [ウィジェットの概要](https://support.staffbase.com/hc/ja/articles/25488044747026)
+- [APIトークンの管理](https://support.staffbase.com/hc/ja/articles/25487807954322)
 - [APIトークンの作成と取得](https://support.staffbase.com/hc/ja/articles/25487769000210)
 - [プラグインの概要](https://support.staffbase.com/hc/ja/articles/25487514075794)
 - [プラグインの概要](https://support.staffbase.com/hc/ja/articles/25487482666002)
