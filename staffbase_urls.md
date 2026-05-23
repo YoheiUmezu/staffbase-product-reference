@@ -1,5 +1,6 @@
 # Staffbase Knowledge Base URL List
 
+- [セクションおよびブロックの画像ガイドライン](https://support.staffbase.com/hc/ja/articles/35799577609618)
 - [2026年第2四半期リリースのハイライト - Navigator](https://support.staffbase.com/hc/ja/articles/35309493801106)
 - [2026年第1四半期リリースのハイライト - 再設計されたページ](https://support.staffbase.com/hc/ja/articles/35306269617042)
 - [Navigatorの有効化をリクエストする](https://support.staffbase.com/hc/ja/articles/34854418742930)
