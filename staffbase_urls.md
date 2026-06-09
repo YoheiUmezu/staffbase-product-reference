@@ -840,7 +840,6 @@
 - [Gmailでの複数のエイリアスの取り扱い](https://support.staffbase.com/hc/ja/articles/4415102172178)
 - [従業員メールでの読了時間データの収集](https://support.staffbase.com/hc/ja/articles/4412581525778)
 - [ニュース セントラルの設定を変更する](https://support.staffbase.com/hc/ja/articles/4409825310098)
-- [プラットフォームでのライブストリーミング](https://support.staffbase.com/hc/ja/articles/4409045244946)
 - [グループサブスクリプションウィジェットの設定](https://support.staffbase.com/hc/ja/articles/360019152219)
 - [ページテンプレートの削除](https://support.staffbase.com/hc/ja/articles/360017373219)
 - [ニュース投稿を別のスペースにコピーする](https://support.staffbase.com/hc/ja/articles/360010698080)
