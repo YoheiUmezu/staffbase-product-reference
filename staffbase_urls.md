@@ -944,6 +944,7 @@
 - [ショートの概要](https://support.staffbase.com/hc/ja/articles/30379912327954)
 - [ショートウィジェットの設定方法](https://support.staffbase.com/hc/ja/articles/30379945341458)
 - [ブロッキング承認の概要](https://support.staffbase.com/hc/ja/articles/25891156739218)
+- [ブロッキング承認の有効化](https://support.staffbase.com/hc/ja/articles/25929976177938)
 - [ブロッキング承認の使用](https://support.staffbase.com/hc/ja/articles/25929250525330)
 - [ニュース投稿の高度なレビューページの使用](https://support.staffbase.com/hc/ja/articles/25488775351442)
 - [スタジオでのニュース投稿の高度なコンテンツレビュー機能の使用](https://support.staffbase.com/hc/ja/articles/25488759837330)
