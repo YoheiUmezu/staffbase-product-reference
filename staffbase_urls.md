@@ -458,7 +458,7 @@
 - [リンクリストウィジェットの設定](https://support.staffbase.com/hc/ja/articles/25488281324178)
 - [Staffbase Emailの概要](https://support.staffbase.com/hc/ja/articles/25486073796114)
 - [Staffbase EmailでのCSVインポートの設定](https://support.staffbase.com/hc/ja/articles/24578745733906)
-- [Staffbaseメールにニュースブロックを統合する](https://support.staffbase.com/hc/ja/articles/24490844367378)
+- [Staffbaseメールでニュースブロックを統合する](https://support.staffbase.com/hc/ja/articles/24490844367378)
 - [Staffbaseメール用のカスタムフォントのアップロード](https://support.staffbase.com/hc/ja/articles/24343646646674)
 - [タイムゾーン設定の変更](https://support.staffbase.com/hc/ja/articles/24213725987858)
 - [スタッフベースメールでのプロフィールフィールドの作成](https://support.staffbase.com/hc/ja/articles/24191040496786)
