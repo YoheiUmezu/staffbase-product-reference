@@ -1,5 +1,6 @@
 # Staffbase Knowledge Base URL List
 
+- [アンカーリンクをコピーする](https://support.staffbase.com/hc/ja/articles/37098565359762)
 - [セクションおよびブロックの画像ガイドライン](https://support.staffbase.com/hc/ja/articles/35799577609618)
 - [2026年第2四半期リリースのハイライト - Navigator](https://support.staffbase.com/hc/ja/articles/35309493801106)
 - [2026年第1四半期リリースのハイライト - 再設計されたページ](https://support.staffbase.com/hc/ja/articles/35306269617042)
@@ -612,6 +613,7 @@
 - [Navigator XX内サービスナウ連携の概要](https://support.staffbase.com/hc/ja/articles/34807123041298)
 - [記事チャンネルのニュース投稿記事のレイアウトを選択する](https://support.staffbase.com/hc/ja/articles/33774973050002)
 - [ページ用コンテンツデザイナーの概要](https://support.staffbase.com/hc/ja/articles/32746793141010)
+- [コンテンツデザイナー内のブロックの概要](https://support.staffbase.com/hc/ja/articles/32702392458386)
 - [動画の字幕を管理する](https://support.staffbase.com/hc/ja/articles/32700659075986)
 - [ライブ配信イベントへの参加](https://support.staffbase.com/hc/ja/articles/32680447432850)
 - [AI Podcast コンテンツの定義](https://support.staffbase.com/hc/ja/articles/32425310326674)
@@ -825,6 +827,7 @@
 - [会社のロゴ](https://support.staffbase.com/hc/ja/articles/115002026591)
 - [Space グループでローカル視聴者を管理する](https://support.staffbase.com/hc/ja/articles/34677285869842)
 - [ニュースチャンネルに投稿者または編集者を割り当てる](https://support.staffbase.com/hc/ja/articles/33742603355410)
+- [コンテンツデザイナー内の表示設定の使用方法](https://support.staffbase.com/hc/ja/articles/32702253432594)
 - [代替テキストでアクセシビリティを向上させる](https://support.staffbase.com/hc/ja/articles/29763567070226)
 - [ファイル使用状況でファイルの場所を確認する](https://support.staffbase.com/hc/ja/articles/25820073025170)
 - [ウィジェットを使った魅力的なコンテンツの作成](https://support.staffbase.com/hc/ja/articles/25488147770002)
