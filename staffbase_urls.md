@@ -907,7 +907,7 @@
 - [グループコンテンツへの直接リンクと@メンション](https://support.staffbase.com/hc/ja/articles/360019390359)
 - [Microsoft 365 ファイルプラグインのインストールと構成](https://support.staffbase.com/hc/ja/articles/360014012959)
 - [部分CSVインポートの概要](https://support.staffbase.com/hc/ja/articles/360012126839)
-- [ページ移行に関するよくある質問（FAQ）](https://support.staffbase.com/hc/ja/articles/34834129947538)
+- [ページ移行FAQ](https://support.staffbase.com/hc/ja/articles/34834129947538)
 - [コンテンツデザイナーにおけるアクセシビリティの概要](https://support.staffbase.com/hc/ja/articles/32702338837778)
 - [分析データのCSVへのエクスポート](https://support.staffbase.com/hc/ja/articles/360013268080)
 - [部分CSVタグの作成](https://support.staffbase.com/hc/ja/articles/360012030720)
