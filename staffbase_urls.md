@@ -1,5 +1,7 @@
 # Staffbase Knowledge Base URL List
 
+- [クイックスタートガイド：ページ用コンテンツデザイナー](https://support.staffbase.com/hc/ja/articles/37514684079378)
+- [クイックスタート：メール移行](https://support.staffbase.com/hc/ja/articles/37514674582930)
 - [マイグループとコミュニティの使い分け概要](https://support.staffbase.com/hc/ja/articles/37235041134098)
 - [マイグループの概要](https://support.staffbase.com/hc/ja/articles/37233421981586)
 - [Staffbaseメール内のイベントプロモーションの概要](https://support.staffbase.com/hc/ja/articles/36789851138450)
