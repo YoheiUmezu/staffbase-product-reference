@@ -1,11 +1,15 @@
 # Staffbase Knowledge Base URL List
 
+- [クイックスタート：コンテンツ Pro](https://support.staffbase.com/hc/ja/articles/37514744404754)
 - [クイックスタートガイド：ページ用コンテンツデザイナー](https://support.staffbase.com/hc/ja/articles/37514684079378)
 - [クイックスタート：メール移行](https://support.staffbase.com/hc/ja/articles/37514674582930)
 - [マイグループとコミュニティの使い分け概要](https://support.staffbase.com/hc/ja/articles/37235041134098)
 - [マイグループの概要](https://support.staffbase.com/hc/ja/articles/37233421981586)
 - [Staffbaseメール内のイベントプロモーションの概要](https://support.staffbase.com/hc/ja/articles/36789851138450)
 - [2026年第3四半期リリース](https://support.staffbase.com/hc/ja/articles/36541554991506)
+- [クイックスタート：ナビゲーター](https://support.staffbase.com/hc/ja/articles/36176356821010)
+- [クイックスタート：ナビゲーター](https://support.staffbase.com/hc/ja/articles/36176370381202)
+- [クイックスタート：コンテンツ Pro](https://support.staffbase.com/hc/ja/articles/36108921058706)
 - [2026年第2四半期リリースのハイライト - Navigator](https://support.staffbase.com/hc/ja/articles/35309493801106)
 - [2026年第1四半期リリースのハイライト - 再設計されたページ](https://support.staffbase.com/hc/ja/articles/35306269617042)
 - [Staffbaseメール内でAIを活用したEメールの作成](https://support.staffbase.com/hc/ja/articles/34852118492690)
@@ -755,7 +759,6 @@
 - [Staffbaseメールのボタンスタイルのカスタマイズ](https://support.staffbase.com/hc/ja/articles/24344044853266)
 - [コメント概要ページでの感情ラベルの使用](https://support.staffbase.com/hc/ja/articles/24093278651922)
 - [キャンペーンマネージャーの権限](https://support.staffbase.com/hc/ja/articles/23028595869714)
-- [ユーザー管理の向上のための新しいCSVインポート方法への移行](https://support.staffbase.com/hc/ja/articles/18547738445842)
 - [ジャーニーの複製](https://support.staffbase.com/hc/ja/articles/13369587162514)
 - [分析ダッシュボードを使用したコンテンツメトリクスの分析](https://support.staffbase.com/hc/ja/articles/11985191555218)
 - [SharePointからStaffbaseニュース投稿を作成する](https://support.staffbase.com/hc/ja/articles/11203978226322)
