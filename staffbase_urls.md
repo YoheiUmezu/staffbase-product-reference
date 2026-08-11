@@ -1,5 +1,6 @@
 # Staffbase Knowledge Base URL List
 
+- [Q3 2026リリースの注目ポイント - イベントプロモーション](https://support.staffbase.com/hc/ja/articles/37943921377810)
 - [クイックスタート：コンテンツ Pro](https://support.staffbase.com/hc/ja/articles/37514744404754)
 - [クイックスタートガイド：ページ用コンテンツデザイナー](https://support.staffbase.com/hc/ja/articles/37514684079378)
 - [クイックスタート：メール移行](https://support.staffbase.com/hc/ja/articles/37514674582930)
