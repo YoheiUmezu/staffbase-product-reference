@@ -1,5 +1,6 @@
 # Staffbase Knowledge Base URL List
 
+- [MCP Server の概要](https://support.staffbase.com/hc/ja/articles/38359901795858)
 - [Q3 2026リリースの注目ポイント - イベントプロモーション](https://support.staffbase.com/hc/ja/articles/37943921377810)
 - [コンテンツデザイナー ビデオライブラリ](https://support.staffbase.com/hc/ja/articles/37515041402386)
 - [クイックスタート：コンテンツ Pro](https://support.staffbase.com/hc/ja/articles/37514744404754)
@@ -99,7 +100,6 @@
 - [Microsoft 365 ウィジェットの概要](https://support.staffbase.com/hc/ja/articles/25481210837394)
 - [スタッフベースサポートポータルの概要](https://support.staffbase.com/hc/ja/articles/25395162266002)
 - [[新] CSVインポートのためのCSVファイルの設定](https://support.staffbase.com/hc/ja/articles/25043813568018)
-- [StaffbaseメールFAQのリリース](https://support.staffbase.com/hc/ja/articles/24618665359890)
 - [スタッフベースメールでメールを作成して送信する](https://support.staffbase.com/hc/ja/articles/24491460130322)
 - [StaffbaseメールにおけるAIの概要](https://support.staffbase.com/hc/ja/articles/24491313623698)
 - [Staffbase Emailにおけるファイル管理の概要](https://support.staffbase.com/hc/ja/articles/24491248942610)
