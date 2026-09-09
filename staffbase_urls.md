@@ -923,7 +923,7 @@
 - [コンテンツデザイナーでページの以前のバージョンを復元する](https://support.staffbase.com/hc/ja/articles/32702412573842)
 - [アイデア提案ページの設定](https://support.staffbase.com/hc/ja/articles/26065989968914)
 - [スタッフベースメールデザイナーの概要](https://support.staffbase.com/hc/ja/articles/25482689412114)
-- [分析ダッシュボードにおけるエクスポート可能なデータの概要](https://support.staffbase.com/hc/ja/articles/20578858349586)
+- [アナリティクスダッシュボード内のエクスポート可能データの概要](https://support.staffbase.com/hc/ja/articles/20578858349586)
 - [従業員メールAPIの課題解決](https://support.staffbase.com/hc/ja/articles/4412581419538)
 - [グループコンテンツへの直接リンクと@メンション](https://support.staffbase.com/hc/ja/articles/360019390359)
 - [Microsoft 365 ファイルプラグインのインストールと構成](https://support.staffbase.com/hc/ja/articles/360014012959)
