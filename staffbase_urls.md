@@ -460,6 +460,7 @@
 - [iOSアプリIDの作成](https://support.staffbase.com/hc/ja/articles/115003608652)
 - [プラットフォーム内のコンテンツのリンク](https://support.staffbase.com/hc/ja/articles/207493455)
 - [リリースリズム移行の概要](https://support.staffbase.com/hc/ja/articles/38924820138770)
+- [アプリおよびイントラネットにおけるブランディングカラーの概要](https://support.staffbase.com/hc/ja/articles/38762725772178)
 - [2026年10月リリース](https://support.staffbase.com/hc/ja/articles/38715614497426)
 - [ナビゲーター ビデオライブラリ](https://support.staffbase.com/hc/ja/articles/37515112672786)
 - [ナビゲーター2.0へのアップグレード](https://support.staffbase.com/hc/ja/articles/37167502302994)
