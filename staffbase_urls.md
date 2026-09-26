@@ -870,7 +870,7 @@
 - [初めてのアプリをApple App Storeに提出する](https://support.staffbase.com/hc/ja/articles/115003482052)
 - [会社のロゴ](https://support.staffbase.com/hc/ja/articles/115002026591)
 - [ニュースチャンネルに投稿者または編集者を割り当てる](https://support.staffbase.com/hc/ja/articles/33742603355410)
-- [コンテンツデザイナーで背景色や画像を追加する](https://support.staffbase.com/hc/ja/articles/32702162286226)
+- [コンテンツデザイナーで背景色または画像を追加する](https://support.staffbase.com/hc/ja/articles/32702162286226)
 - [代替テキストでアクセシビリティを向上させる](https://support.staffbase.com/hc/ja/articles/29763567070226)
 - [ファイル使用状況でファイルの場所を確認する](https://support.staffbase.com/hc/ja/articles/25820073025170)
 - [アプリグラフィックスの概要](https://support.staffbase.com/hc/ja/articles/25488553056018)
