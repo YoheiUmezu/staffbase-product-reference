@@ -1,5 +1,6 @@
 # Staffbase Knowledge Base URL List
 
+- [10月1日リリースの注目機能：AIハイブリッド検索と要約](https://support.staffbase.com/hc/ja/articles/39361941641618)
 - [ブランディングの概要](https://support.staffbase.com/hc/ja/articles/39234012781074)
 - [Analytics Explore を使用したカスタムレポートの生成](https://support.staffbase.com/hc/ja/articles/39013249264402)
 - [AI検索要約の概要](https://support.staffbase.com/hc/ja/articles/38997277590802)
