@@ -1,6 +1,8 @@
 # Staffbase Knowledge Base URL List
 
+- [Navigator のフォーム概要](https://support.staffbase.com/hc/ja/articles/40231485552658)
 - [ページを作成する](https://support.staffbase.com/hc/ja/articles/40150388425874)
+- [Navigator のフォーム概要](https://support.staffbase.com/hc/ja/articles/40076029866258)
 - [2026年第4四半期リリースのハイライト - 再設計されたフォーム](https://support.staffbase.com/hc/ja/articles/40046714298770)
 - [Forms と Classic Forms の選択](https://support.staffbase.com/hc/ja/articles/39611954860818)
 - [権限委譲の概要](https://support.staffbase.com/hc/ja/articles/39482782372626)
