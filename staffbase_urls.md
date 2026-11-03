@@ -493,7 +493,7 @@
 - [StaffbaseにCornerstone連携を追加する](https://support.staffbase.com/hc/ja/articles/34769733663762)
 - [コミュニティの設定方法](https://support.staffbase.com/hc/ja/articles/34482047365010)
 - [Staffbaseメール内の配信停止オプションの管理](https://support.staffbase.com/hc/ja/articles/34411858028562)
-- [コンテンツデザイナー内のブロックの概要](https://support.staffbase.com/hc/ja/articles/32702392458386)
+- [Content Designerのブロックの概要](https://support.staffbase.com/hc/ja/articles/32702392458386)
 - [動画の字幕を管理する](https://support.staffbase.com/hc/ja/articles/32700974893202)
 - [RTMP接続を使用したライブ配信](https://support.staffbase.com/hc/ja/articles/32680727362194)
 - [Staffbaseメールで特定のユーザーおよびユーザーグループ向けにブロックをターゲティングする](https://support.staffbase.com/hc/ja/articles/32662673426578)
