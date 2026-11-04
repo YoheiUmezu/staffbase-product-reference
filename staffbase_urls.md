@@ -12,6 +12,7 @@
 - [エディトリアルカレンダーでのイベントの使用](https://support.staffbase.com/hc/ja/articles/39358065882002)
 - [ブランディングの概要](https://support.staffbase.com/hc/ja/articles/39234012781074)
 - [2026年第4四半期リリース](https://support.staffbase.com/hc/ja/articles/39113600984466)
+- [再設計されたフォームの概要](https://support.staffbase.com/hc/ja/articles/39061933429650)
 - [AI検索要約の概要](https://support.staffbase.com/hc/ja/articles/38997277590802)
 - [再設計された検索結果ページの概要](https://support.staffbase.com/hc/ja/articles/38997245300114)
 - [Analytics Explorer でカスタムレポートを共有する](https://support.staffbase.com/hc/ja/articles/38970311595026)
