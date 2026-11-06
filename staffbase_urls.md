@@ -801,6 +801,7 @@
 - [アプリストア情報の追加](https://support.staffbase.com/hc/ja/articles/360000119331)
 - [ページを作成する](https://support.staffbase.com/hc/ja/articles/206435159)
 - [ナビゲーター内でエージェントコネクタを追加および管理する](https://support.staffbase.com/hc/ja/articles/39605179104146)
+- [フォームの公開](https://support.staffbase.com/hc/ja/articles/39603073047954)
 - [オープングループの設定をカスタマイズする](https://support.staffbase.com/hc/ja/articles/37235973414674)
 - [アンカーリンクをコピーする](https://support.staffbase.com/hc/ja/articles/37098565359762)
 - [HR連携ウィジェットに関するよくある質問](https://support.staffbase.com/hc/ja/articles/34829060008850)
