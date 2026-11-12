@@ -50,7 +50,6 @@
 - [クイックスタート：メール移行](https://support.staffbase.com/hc/ja/articles/34365791275922)
 - [クイックスタート：メール移行](https://support.staffbase.com/hc/ja/articles/34365814553490)
 - [フィルターを使ってユーザーアカウントを絞り込む](https://support.staffbase.com/hc/ja/articles/34228023114642)
-- [スタジオでユーザーアカウントを削除します](https://support.staffbase.com/hc/ja/articles/34227949152658)
 - [Studioでプロフィールフィールドデータを編集する](https://support.staffbase.com/hc/ja/articles/34109974440338)
 - [StaffbaseとScreenCloudのよくある質問（FAQ）](https://support.staffbase.com/hc/ja/articles/33892364209426)
 - [キャンペーンのためのアライメント調査の概要](https://support.staffbase.com/hc/ja/articles/33771119152402)
